@@ -1,4 +1,4 @@
-package main.java.com.greenledger;
+package com.greenledger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

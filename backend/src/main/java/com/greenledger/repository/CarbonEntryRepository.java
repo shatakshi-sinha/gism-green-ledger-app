@@ -1,4 +1,4 @@
-package main.java.com.greenledger.repository;
+package com.greenledger.repository;
 
 import com.greenledger.model.CarbonEntry;
 import org.springframework.data.jpa.repository.JpaRepository;

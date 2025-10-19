@@ -1,4 +1,4 @@
-package main.java.com.greenledger.controller;
+package com.greenledger.controller;
 
 import com.greenledger.model.CarbonEntry;
 import com.greenledger.repository.CarbonEntryRepository;

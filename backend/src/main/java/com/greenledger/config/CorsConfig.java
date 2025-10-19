@@ -1,4 +1,4 @@
-package main.java.com.greenledger.config;
+package com.greenledger.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

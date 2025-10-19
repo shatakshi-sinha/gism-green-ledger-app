@@ -1,4 +1,4 @@
-package main.java.com.greenledger.model;
+package com.greenledger.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
